@@ -200,7 +200,7 @@ class DiceAnimation:
 
 def main():
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT), pygame.DOUBLEBUF)
-    pygame.display.set_caption("Фишки с заданиями")
+    pygame.display.set_caption("404: Leadership Not Found")
     clock = pygame.time.Clock()
     
     # Шрифты
